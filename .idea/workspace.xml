@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd9f1d28-f02b-48a5-a8b2-e2c1af8a6f4e" name="Default Changelist" comment="提交任务">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/ReadMe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/sparksubmit/MyLauncher2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/sparksubmit/CallSparkTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/sparksubmit/MyLauncher3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/sparksubmit/MyLauncher4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/sparksubmit/配置" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/main/sparksubmit/MyLauncher2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -53,12 +55,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/juc_gradle" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.MyLauncher2">
+  <component name="RunManager" selected="Application.MyLauncher">
     <configuration name="LanuncherAppV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.main.LanuncherAppV" />
       <module name="mySparkLauncher" />
@@ -113,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyLauncher2" />
         <item itemvalue="Application.MyLauncher" />
+        <item itemvalue="Application.MyLauncher2" />
         <item itemvalue="Application.LauncherApp" />
         <item itemvalue="Application.LanuncherAppV" />
       </list>
@@ -150,7 +153,13 @@
       <workItem from="1602128476163" duration="1787000" />
       <workItem from="1602130341677" duration="1792000" />
       <workItem from="1602132478315" duration="1573000" />
-      <workItem from="1602134348360" duration="986000" />
+      <workItem from="1602134348360" duration="1509000" />
+      <workItem from="1602136391348" duration="619000" />
+      <workItem from="1602145841211" duration="1201000" />
+      <workItem from="1602256274632" duration="423000" />
+      <workItem from="1602343384402" duration="610000" />
+      <workItem from="1602400846537" duration="1105000" />
+      <workItem from="1602430170806" duration="1709000" />
     </task>
     <task id="LOCAL-00001" summary="提交任务">
       <created>1602129662806</created>
@@ -166,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602130620109</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="官网提交任务实例">
+      <created>1602135722823</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602135722823</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,53 +190,58 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交任务" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交任务" />
+    <MESSAGE value="官网提交任务实例" />
+    <option name="LAST_COMMIT_MESSAGE" value="官网提交任务实例" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1602130379530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1602130379530" />
-    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602131666880">
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602431877113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602131666880" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1602130629892">
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602431877113" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1602256347963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602130629892" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1602089282241">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602256347963" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1602400877796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602089282241" />
-    <state width="1323" height="300" key="GridCell.Tab.0.bottom" timestamp="1602129205763">
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602400877796" />
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom" timestamp="1602256714736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="300" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602129205763" />
-    <state width="1323" height="300" key="GridCell.Tab.0.center" timestamp="1602129205763">
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602256714736" />
+    <state width="1323" height="132" key="GridCell.Tab.0.center" timestamp="1602256714736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="300" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602129205763" />
-    <state width="1323" height="300" key="GridCell.Tab.0.left" timestamp="1602129205763">
+    <state width="1323" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602256714736" />
+    <state width="1323" height="132" key="GridCell.Tab.0.left" timestamp="1602256714736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="300" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602129205763" />
-    <state width="1323" height="300" key="GridCell.Tab.0.right" timestamp="1602129205763">
+    <state width="1323" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602256714736" />
+    <state width="1323" height="132" key="GridCell.Tab.0.right" timestamp="1602256714736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="300" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602129205763" />
+    <state width="1323" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602256714736" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1602129612960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602129612960" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602130692106">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602256459228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602130692106" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602134350682">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602256459228" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602400847215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602134350682" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602400847215" />
+    <state x="359" y="102" width="647" height="524" key="find.popup" timestamp="1602430850898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="102" width="647" height="524" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1602430850898" />
     <state x="57" y="59" key="new project wizard" timestamp="1602085207848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
